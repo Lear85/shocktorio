@@ -1,0 +1,11 @@
+{
+	"name": "shocktorio"
+	"version": "0.0.1"
+	"title": "Shocktorio"
+	"author": "Claire\n, TritanopiaBlue, assorted cats"
+	"contact": "robogroudon@gmail.com"
+	"homepage": "https://github.com/Lear85/shocktorio/"
+	"factorio_version": "1.1"
+	"dependencies": ["base >= 1.1"],
+	"description": "A Factorio mod for PiShock, allowing the game to shock a player wearing the supported device."
+}

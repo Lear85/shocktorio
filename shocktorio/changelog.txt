@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 6/15/2024
+  Major Featutes:
+    - The literal first version ever
+	- It probably doesn't even shock you yet
+	- But it eventually will
